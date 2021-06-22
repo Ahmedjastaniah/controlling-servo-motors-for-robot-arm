@@ -1,5 +1,13 @@
 # controlling-servo-motors-for-robot-arm
  6 servo motors controlled with potentiometer.Each motor can rotate 90 dgree and the controler that used is Arduino Uno R3.
+ 
+ ## Components
+ - 6 Servo motors
+ - 6 potentiometers
+ - 1 Arduino Uno R3
+ - Breadbaourd
+ - 38 wires
+ 
  ## C++ Code 
   the code that used in the circuit is:
   ```javascript
